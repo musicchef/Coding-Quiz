@@ -22,3 +22,8 @@ THEN the game is over
 WHEN the game is over
 THEN I can save my initials and my score
 ```
+
+## Deployment
+
+The site is live at https://musicchef.github.io/Coding-Quiz/
+![image](https://github.com/musicchef/Coding-Quiz/assets/135558356/c5e2b41c-fe3c-4a5c-996a-486eb505abf8)
